@@ -99,6 +99,10 @@ Vertex* insertAVL(Vertex* p, int D, int* Rost) {
                 p->Bal = -1;
                 *Rost = 1;
             }
+            else if (p->Bal > 0) {
+                p->Bal = 0;
+                *Rost = 1;
+            }
             else { // p->Bal < 0
                 if (p->Left->Bal < 0) {
                     p = rotateLL(p);
