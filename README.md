@@ -4,7 +4,7 @@
 #### Lab_2 ИСДП ЗАЩИТИЛ
 #### Lab_3 СДП
 #### Lab_4 Удаление СДП
-#### [Lab_5 АВЛ] (https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_5)
+- [Lab_5 АВЛ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_5)
 #### Lab_6 Удаление АВЛ ВМЕСТЕ
 #### Lab_7 ДБД
 #### Lab_8 ДОП ВМЕСТЕ
