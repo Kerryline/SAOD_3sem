@@ -1,17 +1,17 @@
 # SAOD_3sem
-#### Lab_0 Карп
-#### Lab_1 обходы
-#### Lab_2 ИСДП ЗАЩИТИЛ
-#### Lab_3 СДП
-#### Lab_4 Удаление СДП
+- [Lab_0 Рабин-Карп](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_0)
+- [Lab_1 Обходы](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_1)
+- [Lab_2 ИСДП ЗАЩИЩЕНО](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_2)
+- [Lab_3 СДП](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_3)
+- [Lab_4 Удаление СДП](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_4)
 - [Lab_5 АВЛ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_5)
-#### Lab_6 Удаление АВЛ ВМЕСТЕ
-#### Lab_7 ДБД
-#### Lab_8 ДОП ВМЕСТЕ
-#### Lab_9 А1 А2 ВМЕСТЕ
-#### Lab_10 Шеннон ВМЕСТЕ
-#### Lab_11 Фано ВМЕСТЕ
-#### Lab_12 Хаффман ВМЕСТЕ
-#### Lab_13 Гилберт-Мур ВМЕСТЕ
-#### Lab_14 РК-поиск ВМЕСТЕ
+- [Lab_6 Удаление АВЛ ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_6)
+- [Lab_7 ДБД](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_7)
+- [Lab_8 ДОП ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_8)
+- [Lab_9 А1 А2 ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_9)
+- [Lab_10 Шеннон ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_10)
+- [Lab_11 Хаффман ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_11)
+- [Lab_12 Фано ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_12)
+- [Lab_13 Гилберт-Мур ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_13)
+- [Lab_14 РК-поиск ВМЕСТЕ](https://github.com/Kerryline/SAOD_3sem/tree/main/Lab_14)
 
